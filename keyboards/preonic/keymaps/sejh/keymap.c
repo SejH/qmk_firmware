@@ -45,7 +45,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |------+------+------+------+------+------|------+------+------+------+------+------|
  * | GUI  |   Z  |   X  |   C  |   V  |   B  |   N  |   M  |   ,  |   .  |   /  | PgUp |
  * |------+------+------+------+------+------+------+------+------+------+------+------|
- * |Shift |Shift | Play |Lower | Alt  |Space |Enter | Ctrl |Raise | Home | End  |PgDown|
+ * |Shift | SIDE | Play |Lower | Alt  |Space |Enter | Ctrl |Raise | Home | End  |PgDown|
  * `-----------------------------------------------------------------------------------'
  */
 [_QWERTY] = {
